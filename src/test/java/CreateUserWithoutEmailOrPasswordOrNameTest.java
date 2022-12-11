@@ -1,4 +1,4 @@
-import User.*;
+import user.*;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
 import org.junit.After;

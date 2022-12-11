@@ -1,7 +1,7 @@
-import User.UserClient;
-import User.GeneratorUser;
-import User.User;
-import User.UserCredentials;
+import user.UserClient;
+import user.GeneratorUser;
+import user.User;
+import user.UserCredentials;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
 import org.junit.After;

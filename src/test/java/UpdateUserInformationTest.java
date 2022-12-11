@@ -1,12 +1,12 @@
-import User.User;
-import User.UserClient;
+import user.User;
+import user.UserClient;
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.Response;
 import org.junit.After;
 import org.junit.Before;
-import User.GeneratorUser;
+import user.GeneratorUser;
 import org.junit.Test;
-import User.UserCredentials;
+import user.UserCredentials;
 import static org.hamcrest.CoreMatchers.equalTo;
 
 public class UpdateUserInformationTest {
